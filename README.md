@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @curious-udit07
+- 👋 Hi, I’m @udit-07
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java basic/intermediate projects
