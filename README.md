@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udit-07
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java basic/intermediate projects
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on java and pyhton basic/intermediate projects
 - 📫 How to reach me... you can't lol
 
 <!---
